@@ -1,5 +1,5 @@
 # YfS Silicon Website
-A static Website for Youth for Sustainability Silicon chapr's campaigns.
+A static Website for Youth for Sustainability Silicon chapter's campaigns.
 ## Languages used
 1. HTML
 2. CSS
